@@ -1,4 +1,5 @@
-# AISC-Shapes-W-Section
+# 🏗️ AISC Shapes W-Section Search Tool
 
-Forked from https://github.com/derekeder/csv-to-html-table
-Copyright (c) 2018 Derek Eder. Released under the MIT License.
+A lightweight and easy-to-use tool that provides **searchable access to AISC W-Section (Wide Flange) steel shape data**.  
+This project is designed for structural engineers, students, and developers who need quick access to section properties in a convenient format.
+
